@@ -6,6 +6,6 @@ public interface ArthemteicService {
     public int mul(int a, int b);
     public int div(int a, int b);
     public int addMany(int... a);
-    public int mulMany(int... c);
+    public int mulMany(int... d);
 
 }
